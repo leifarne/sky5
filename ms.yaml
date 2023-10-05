@@ -10,11 +10,11 @@
   - title : MS Reseller Overview 
     file : 235 
   - title : MS Reseller Overview (Github)
-    file : ms/ms-reseller-overview.html 
+    file : ms/ms-reseller/ms-reseller-overview.html 
   - title : Comparison of Reseller Models
     file : ms/ms-reseller/ms-comparison-of-reseller-models.md
   - title : Comparison of Reseller Models (Github)
-    file : ms/ms-comparison-of-reseller-models.html
+    file : ms/ms-reseller/ms-comparison-of-reseller-models.html
   - title : Direct Bill (Tier 1 CSP)
     children :
     - title : Key Risks
