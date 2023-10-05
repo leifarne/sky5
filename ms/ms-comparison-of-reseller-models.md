@@ -1,0 +1,71 @@
+# Comparison of the two MPA reseller models
+---
+    
+**Overview of practical differences between becoming a "direct bill" CSP vs "Indirect reseller" CSP.** 
+    
+<table style="color:#ffffff;backgroundcolor:#246379">
+    <thead>
+        <tr>
+            <th> Subject </th>
+            <th>MPA Direct Bill</th>
+            <th>MPA Indirect Reseller</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td> <img src="media/avtale2.png" width="50"/> Counterparty </td>
+            <td> Microsoft is your counterparty. </td>
+            <td> An authorized distributor is your counterparty (The distributor has signed a separate MPA with Microsoft and are authorized to resell Microsoft Online-services via other resellers.  </td>
+        </tr>
+        <tr>
+            <td> <img src="media/avtalebestemmelser.png" width="30"/> Contractual provisions </td>> 
+            <td> The agreement is "complete". You communicate directly with Microsoft and order and pay for the online services through the Partner Portal.</td>
+            <td>
+                 The MPA agreement and appendices are shorter. The contractual provisions takes for instance into account that payment for consumed cloud services is a matter between reseller and distributor, and is not included between Microsoft and reseller. 
+                  Be aware of the many of the "missing" contractual provisions may be included in the agreement you enter into with the authorized distributor. (The distributor will usually mirror the contractual provisions into the agreement with you, in order to comply with Microsoft's obligations).  
+            </td>
+        </tr>
+        <tr>
+            <td>  <img src="media/portal.png" width="30"/> Microsoft's Partner Portal</td>
+            <td>
+                 You need to establish your own solution to communicate with Microsoft Partner Portal. The payment/settlement will go directly through the Microsoft's Partner Portal solution. 
+            </td>
+            <td>
+                The distributor establishes their own Microsoft Partner Portal solution for purchases of online services and settles the payment. You'll get access to the distributor's Partner Portal solution through the agreement you have with the distributor.  
+            </td>
+        </tr>
+        <tr> 
+              <td> 
+                  <img src="media/payment.png" width="30"/> Payment breach 
+              </td> 
+              <td> 
+                    N/A 
+              </td> 
+              <td> 
+                    If the distributors breaches its payment obligation, you risk loosing access to Microsoft's Partner Portal, Online Services etc. 
+              </td> 
+              </tr> 
+              <tr> 
+      <td> 
+           <img src="media/termination.png" width="30"/>  Termination
+      </td> 
+      <td> 
+            Termination due to the reseller's material breach, the reseller can continue to deliver services to existing customers for a transitional period of 12 months.  
+      </td> 
+      <td> 
+             Termination due to the reseller's material breach, the distributor can cease to deliver online-services to existing customers immediately. 
+      </td> 
+      </tr> 
+      <tr> 
+            <td> 
+                 <img src="media/earned.png" width="30"/>  Earned credits
+            </td> 
+            <td> 
+                  You'll receive p.t. 15 % in partner earned credits when reselling services to your own customers.
+            </td> 
+            <td> 
+                    You'll receive p.t. 15 % in partner earned credits when reselling services to your own customers. The distributor normally require a part of the earned credits as a payment for the distributor's services and the percentage needs to be agreed with the distributor.
+            </td> 
+      </tr> 
+    </tbody>
+</table>
