@@ -3,7 +3,7 @@
   file : 26
 - title : Being a Cloud Reseller (Github)
   file : being-a-cloud-reseller.html
-- title : Reselling Azure vs AWS vs GCP
+- title : Reselling Azure vs AWS vs GCP (Github)
   file : reselling-aws-vs-ms-gcp.html
 - title : MS Reseller
   children : 
@@ -40,7 +40,7 @@
   - title : Different Ways to use the Hosting Exception
     file : ms/ms-reseller/ms-hosting-exception-different-ways.md 
   - title : Alternative Delivery Models to the Hosting Exception
-    file : ms/ms-reseller/alternative-delivery-models-to-the-hosting-exception.md 
+    file : ms/ms-reseller/alternative-delivery-models-to-the-hosting-exception.html 
   - title : Pro-Con Assessment
     file : ms/ms-reseller/ms-hosting-exception-pro-con.html 
 
