@@ -17,7 +17,7 @@
     file : ms/ms-reseller/ms-comparison-of-reseller-models.html
   - title : Direct Bill (Tier 1 CSP)
     children :
-    - title : Key Risks
+    - title : Key Risks - Direct Bill
       file : ms/ms-reseller/ms-direct-bill.html
       requireMPA : true
     - title : Detailed Walkthrough
