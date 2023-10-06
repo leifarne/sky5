@@ -18,7 +18,7 @@
   - title : Direct Bill (Tier 1 CSP)
     children :
     - title : Key Risks
-      file : 123
+      file : ms/ms-reseller/ms-direct-bill.html
       requireMPA : true
     - title : Detailed Walkthrough
       file : ms/ms-reseller/ms-direct-bill.yaml
