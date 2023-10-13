@@ -3,8 +3,11 @@
 - title : Google
   file : google.html
 - title : Pro-con
-  file : ms-hosting-exception-pro-con.html
+  file : ms/ms-reseller/ms-hosting-exception-pro-con.html
+- title : Different Ways (MD)
+  file : README.md
 - title : Why This?
   file : why-this.html
-  
+- title : Alternative Delivery Models
+  file : ms/ms-reseller/alternative-delivery-models-to-the-hosting-exception.md
   
