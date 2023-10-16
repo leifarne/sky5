@@ -26,7 +26,7 @@
   - title : Indirect Reseller (Tier 2 CSP)
     children :
     - title : Key Risks
-      file : 343
+      file : ms/ms-reseller/ms-indirect-reseller.html
       requireMPA : true
     - title : Detailed Walkthrough
       file : ms/ms-reseller/ms-indirect-reseller.yaml 
