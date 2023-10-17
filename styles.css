@@ -1,0 +1,24 @@
+body {
+    font-family: sans-serif;
+}
+
+.even {
+    background-color: #C3D9D7;
+}
+
+table,
+th,
+td {
+    border: 1px solid #83AFB4;
+    border-collapse: collapse;
+}
+
+th,
+td {
+    padding: 4px;
+}
+
+th {
+    background-color: #173F35;
+    color: white;
+}

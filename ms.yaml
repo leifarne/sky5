@@ -1,23 +1,17 @@
 
-- title : Being a Cloud Reseller
-  file : 26
-- title : Being a Cloud Reseller (Github)
+- title : Being a Cloud Reseller (gh)
   file : being-a-cloud-reseller.html
-- title : Reselling Azure vs AWS vs GCP (Github)
+- title : Reselling Azure vs AWS vs GCP (gh)
   file : reselling-aws-vs-ms-gcp.html
 - title : MS Reseller
   children : 
-  - title : MS Reseller Overview 
-    file : 235 
-  - title : MS Reseller Overview (Github)
+  - title : MS Reseller Overview (gh)
     file : ms/ms-reseller/ms-reseller-overview.html 
-  - title : Comparison of Reseller Models
-    file : ms/ms-reseller/ms-comparison-of-reseller-models.md
-  - title : Comparison of Reseller Models (Github)
+  - title : Comparison of Reseller Models (gh)
     file : ms/ms-reseller/ms-comparison-of-reseller-models.html
   - title : Direct Bill (Tier 1 CSP)
     children :
-    - title : Key Risks - Direct Bill
+    - title : Key Risks - Direct Bill (gh)
       file : ms/ms-reseller/ms-direct-bill.html
       requireMPA : true
     - title : Detailed Walkthrough
@@ -25,7 +19,7 @@
       requireMPA : true
   - title : Indirect Reseller (Tier 2 CSP)
     children :
-    - title : Key Risks
+    - title : Key Risks (gh)
       file : ms/ms-reseller/ms-indirect-reseller.html
       requireMPA : true
     - title : Detailed Walkthrough
@@ -33,15 +27,15 @@
       requireMPA : true
 - title: For SaaS Suppliers - hosting in Azure
   children :
-  - title : General 
+  - title : General  (gh)
     file : ms/ms-reseller/for-saas-suppliers-hosting-in-azure.md 
-  - title : Hosting Exception - Detailed Walkthrough 
+  - title : Hosting Exception - Detailed Walkthrough  (gh)
     file : ms/ms-reseller/hosting-exception-detailed-walkthrough.md 
-  - title : Different Ways to use the Hosting Exception
+  - title : Different Ways to use the Hosting Exception (gh)
     file : ms/ms-reseller/ms-hosting-exception-different-ways.html
-  - title : Alternative Delivery Models to the Hosting Exception
+  - title : Alternative Delivery Models to the Hosting Exception (gh)
     file : ms/ms-reseller/alternative-delivery-models-to-the-hosting-exception.html 
-  - title : Pro-Con Assessment
+  - title : Pro-Con Assessment (gh)
     file : ms/ms-reseller/ms-hosting-exception-pro-con.html 
 
     
