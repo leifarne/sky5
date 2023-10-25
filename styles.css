@@ -7,6 +7,10 @@ body {
     background-color: #C3D9D7;
 }
 
+table {
+    margin: 10;
+}
+
 table,
 th,
 td {
