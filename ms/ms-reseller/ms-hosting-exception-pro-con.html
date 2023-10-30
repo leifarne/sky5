@@ -1,28 +1,37 @@
-<head>
-    <meta http-equiv="cache-control" content="max-age=0" />
     
     <style>
-        .even {
-            background-color: #C3D9D7;
+        body {
+            margin: 30px;
+            font-family: sans-serif;
         }
 
-        table,
-        th,
-        td {
-            border: 1px solid #83AFB4;
+        h1 {
+            text-align: center;
+        }
+
+        table {
+            margin: 10;
             border-collapse: collapse;
         }
-        th, td {
-            padding: 4px;
-        }
-        th {
-            background-color: #173F35;
-            color: white;
-        }
-    </style>
-</head>
 
-<body>
+        th {
+            background-color: #246379;
+            color: white;
+            padding: 4;
+            vertical-align: middle;
+        }
+
+        th, td {
+            padding: 4;
+            vertical-align: text-top;
+            border: 0px solid #246379;
+        }
+
+        tr.even td {
+            background-color: #C3D9D7;
+        }
+</style>
+
 <h1>Summary, pro et con assessment of the various ways to contract as a SaaS supplier</h1>
 
 <p>The columns “EA”, “MCA” and “MOSA” shows the contractual risk, when you as a SaaS supplier use the “hosting exception” as your
@@ -59,7 +68,7 @@
         </tr>
         <tr class="even">
             <td>Parties</td>
-            <td class="even"> You and MS. E.g. Microsoft does not know the identity of your end-customers. </td>
+            <td> You and MS. E.g. Microsoft does not know the identity of your end-customers. </td>
             <td>As for EA</td>
             <td> You and MS. As for EA. </td>
             <td> You and MS, and MS and your end-customer. If you are an “indirect reseller”, you also need to enter into an
@@ -290,4 +299,3 @@
         </tr>
     </tbody>
 </table>
-</body>
