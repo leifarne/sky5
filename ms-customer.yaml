@@ -1,0 +1,59 @@
+- title: Subscribing to PaaS/IaaS
+  file: customer-subscribing-to-iaas-paas.md
+- title: Differences between Azure, AWS and GCP
+  file: customer-differences-between-azure-aws-gcp.md
+- title: Regulatory Overview
+  children:
+  - title: General
+    file: regulatory-general.md
+  - title: Accounting Act
+    file: regulatory-accounting-act.md
+  - title: GDPR
+    file: regulatory-gdpr.md
+  - title: Acrhives Act
+    file: regulatory-archives-act.md
+  - title: EBA EIOPA DORA
+    file: regulatory-eba-eiopa-dora.md
+  - title: NVE
+    file: regulatory-nve.md
+  - title: Health Registry Act / Patient Records Act / Health Personnel Act (The Health Norm)
+    file: regulatory-health-acts.md
+- title: Microsoft
+  children:
+  - title: Available Programs, Similarities and Differences
+    file: ms/ms-customer/ms-customer-available-programs.md
+  - title : Enterprise Agreement (EA)
+    children :
+    - title : Key Findings
+      file : ms/ms-customer/ms-customer-ea-key-findings.md
+    - title : Detailed Walkthrough
+      file : ms/ms-customer/ms-customer-ea-detailed-walkthrough.yaml
+  - title : Microsoft Customer Agreement (MCA)
+    children :
+    - title : Key Findings
+      file : ms/ms-customer/ms-customer-mca-key-findings.md
+    - title : Detailed Walkthrough
+      file : ms/ms-customer/ms-customer-mca-detailed-walkthrough.yaml
+  - title : Microsoft Online Services Agreement (MOSA)
+    children :
+    - title : Key Findings
+      file : ms/ms-customer/ms-customer-mosa-key-findings.md
+    - title : Detailed Walkthrough
+      file : ms/ms-customer/ms-customer-mosa-detailed-walkthrough.yaml
+- title: AWS
+  children:
+    - title: Available Programs, Similarities and Differences
+      file: aws-customer.md
+- title: Google
+  children:
+    - title: Available Programs, Similarities and Differences
+      file: google-customer.md
+- title: Cloud subscription tool (BETA)
+  children: 
+  - title: General
+    file: 259
+  - title: Important information for SaaS offerings
+    file: 263
+  - title: SaaS Checklist
+    file: 265
+  
