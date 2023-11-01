@@ -5,22 +5,25 @@
 **When you sign up as a customer of Microsoft by accepting the Microsoft
 Customer Agreement, the general rule in the Microsoft Customer Agreement
 is that you as a customer are allowed to use the Online services:**
-
-* "Solely for Customer's own use and business purposes and are non-transferable and you are not entitled to distribute, sublicense, rent, lease, or lend any Online services, in whole or in part, or use them to offer hosting services to a third party".
+ 
+  
+  "Solely for Customer's own use and business purposes and are non-transferable and you are 
+   not entitled to distribute, sublicense, rent, lease, or lend any Online services, in whole 
+  or in part, or use them to offer hosting services to a third party".
 
 Meaning you are as a general rule not allowed to share the power of
 Microsoft Online-services with third parties. According to the Product
-Terms you are **however as a Customer allowed to:**
-
-* "Create and maintain a Customer Solution and, despite anything to the
-contrary in Customer's volume licensing agreement, combine Microsoft
-Azure Services with Customer Data owned or licensed by Customer or a
-third party, to create a Customer Solution using the Microsoft Azure
-Service and the Customer Data together. Customer may permit third
-parties to access and use the Microsoft Azure Services in connection
-with the use of that Customer Solution. Customer is responsible for that
-use and for ensuring that these terms and the terms and conditions of
-Customer's volume licensing agreement are met by that use".
+Terms you are **however as a customer allowed to:**
+ 
+    "Create and maintain a Customer Solution and, despite anything to the
+     contrary in Customer's volume licensing agreement, combine Microsoft
+     Azure Services with Customer Data owned or licensed by Customer or a
+     third party, to create a Customer Solution using the Microsoft Azure
+     Service and the Customer Data together. Customer may permit third
+     parties to access and use the Microsoft Azure Services in connection
+     with the use of that Customer Solution. Customer is responsible for that
+     use and for ensuring that these terms and the terms and conditions of
+     Customer's volume licensing agreement are met by that use".
 
 **Customer Solution Definition:**  
 
@@ -37,7 +40,7 @@ Customer's volume licensing agreement are met by that use".
     that are provided to Microsoft by, or on behalf of, Customer through use of the Online Service. 
     Customer Data does not include Professional Services Data".*
 
-This means that if you build a so called **Customer Solution**, e.g. you
+This means that if you build a **Customer Solution**, e.g. you
 have developed or you are licensed to offer an application as a service
 to end customers, and you use Microsoft Azure Services as your hosting
 platform, you are allowed to do so, even though you **indirectly share
@@ -49,13 +52,15 @@ its own applications etc). The end-customer does not get its own
 subscription in this situation, nor administrative access to the Azure
 tenant.
 
+Note - if you Azure as your hosting platform for your services, but the end-customers does actively store own data in the solution, for instance you have a IOT offering that monitors defined data such as radon, then you should focus on understanding Microsoft Customer Agreement in general, and not these additional considerations for SaaS solutions.  
+
 ## Benefits 
 
 When using the hosting exception as your legal basis for "reselling"
 Microsoft Online Services, the most obvious benefit is that you may
 set-up a multitenant offering towards your end-users.
 
-Also you do not have to require your end-customers to accept Microsoft
+Also you do not have to ensure your end-customers accept Microsoft
 Customer Agreement and enter into an agreement directly with Microsoft
 (as is required of you as a CSP). We see that a lot of the large
 international SaaS providers are choosing this way when offering its own
@@ -109,20 +114,20 @@ third parties etc.
 **Export Control regulations** 
 * Mirror Export Control regulations towards the end customers.
 
+**Relevant parts of Microsoft Product terms** 
 As the end-customers do not get their own tenant in Azure, with
 administrative privileges, you do not necessarily have to flow down the
 entire Microsoft T&C's, Product Terms etc, as the end-customer does not
 control which services are used, nor which license metrics that are
 relevant.
 
-
-## You should however always review the applicable Product Terms and assess whether:
+You should however always review the applicable Product Terms and assess whether:
 - Specific use limitations for the online-services you plan to use,
     allows you to host your application in Azure and provide this as a
     SaaS to your end-customers the way you have planned
  - Secific use limitations should be mirrored towards end-customers, for instance as part of your subscription fee model, depending on which Online-services you use. For instance, if you as the customer pay per core, how should this be reflected in the pricing against your end-customers if you have a per user subscription fee?  
 
-## You should also consider to mirror:
+## You should as a minimum also consider to mirror or address:
 
 **Limited Warranty** 
 * The Limited Warranty Microsoft gives for its Online-services,
@@ -146,12 +151,21 @@ set-up).
 
 Since you, as a customer of Microsoft, will be **liable towards Microsoft
 for any breach of Microsoft T&C's made by your own customers**, you should
-also mirror such liability in your end customer agreement, for instance:
+also mirror such liability in your end customer agreement, for instance write:
 
 * End Customer agrees to indemnify you against any claim from
 Microsoft under the Microsoft Customer Agreement, to the extent such
 claim arises due to end customers failure to adhere to the obligations
 in the Microsoft Customer Agreement which apply for end-customer.
+
+**Data Protection Agreement**
+ - No data processor agreement is established between Microsoft and the individual end-customer with Microsoft. You will therefore have to treat Microsoft as a sub processor in your own DPA towards the end-customers, and to build in appropriate clauses in your own DPA to deal with this.   
+
+When you are using Microsoft as such a sub processor, you will as processor need to carry out a risk assessment in accordance with article 32 in the GDPR. The end-customer will, as part of the end-customer’s obligations under the GDPR, have to request this risk assessment from you and include this assessment in the end-customer's own needed risk assessment also in accordance with article 32 in the GDPR.  
+
+Since Microsoft often use service technicians and/or provides services from outside EEA without adequacy decision, personal data will most probably be exported to such counties. You must therefore assess whether You or Microsoft is the exporter and the transfer mechanism that will be used, respectively by You and/or Microsoft. You have to decide whether you need to conduct a TIA (Transfer Impact Assessment) or whether it is sufficient that the transfer is evaluated in the risk assessment in accordance with article 32. The end-customers will request information about such assessments from You as part of the end-customer’s own risk assessment in accordance with article 32 in GDPR. Therefor you should:  
+
+You should check whether the Azure services used to offer your SaaS offering in fact depend on either transfer of personal data to countries outside of EEA and or countries without adequacy decision, including use of service technicians outside of this area.  If so, you should as a minimum inform your end customers so they are aware and so they may make their own assessments and request potential documentation from you. 
 
 If you want to be **100% sure that there is no gap** between your
 obligations towards Microsoft and what you mirror against your SaaS end
