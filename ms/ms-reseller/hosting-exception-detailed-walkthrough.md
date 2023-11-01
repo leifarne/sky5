@@ -187,24 +187,7 @@ protected under the MS Customer Agreement "against third party claims", not "thi
  to Microsofts Online services, and state that a condition for such indemnity is that Microsoft protects you and
  compensates the same towards you.
   
-**GDPR and DPA** 
 
-A data processing agreement is not established between Microsoft and the individual end-customer with Microsoft. 
-You will therefore have to treat Microsoft as a sub processor in your own DPA towardsthe end-customers, and to build in appropriate clauses from Microsoft's own DPA towards you as the Customer.
-  
-When you are using Microsoft as such a sub processor, the end-customer will need help and information from you to assess whether the end-customer then
-will be compliant with GDPR and to include this assessment in the end-customer\'s needed risk assessment in accordance with article 32
-in the GDPR. 
-
-Since Microsoft may use service technicians outside EEA and outside countries with adequacy decision, and some services often also are provided by Microsoft outside the mentioned area, the end-customers will also need help and information to assess whether end-customer will be compliant with the GDPR if personal data
-potentially is transferred to countries outside EEA and outside countries with adequacy decision.
-
- 
-<img src="media/pil.png" style="color:#A33F1F" width="15"/>Mitigation to consider: 
- You should check whether the Azure services used to offer your SaaS offering in fact depend on either
- transfer of personal data to countries outside of EEA and or countries with adequacy, including use of service technicians outside of this area. 
- If so, you should as a minimum inform your end customers so they are aware and so they may make their own assessments.
- 
  **GDPR liability**
 
 As end-customer does not enter into a DPA directly with Microsoft, but Microsoft is handled as a sub processor, end-customers get no protection under the Microsoft data processing agreement for any loss due to breach thereof. Only you as the "Customer" is given the opportunity to claim damages in case of breach by Microsoft of the DPA, and not the end-customer as the controller.
