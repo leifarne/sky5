@@ -24,10 +24,12 @@ Customer's volume licensing agreement are met by that use".
 
 **Customer Solution Definition:**  
 
-    Customer Solution means "any application that the Customer makes available to its end users consisting of Customer's applications and the Microsoft Azure Services,
-    whereby Customer's application adds primary and significant functionality and is not primarily a 
-    substitute to the Microsoft Azure Services.
-    Customer applications that only provide billing, license management, and/or infrastructure services (e.g., virtual machines, containers, storage, or management for such infrastructure services) do not constitute "primary and significant functionality."
+  Customer Solution means "any application that the Customer makes available to its end users consisting of 
+  Customer's applications and the Microsoft Azure Services, whereby Customer's application adds primary and 
+  significant functionality and is not primarily a substitute to the Microsoft Azure Services.
+  Customer applications that only provide billing, license management, and/or infrastructure services 
+  (e.g., virtual machines, containers, storage, or management for such infrastructure services) do not 
+  constitute "primary and significant functionality."
 
 **Customer Data Definition:** 
 

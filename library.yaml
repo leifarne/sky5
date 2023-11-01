@@ -20,3 +20,5 @@
   file : ms/ms-reseller/ms-reseller-overview.html
 - title : Table Alignment
   file : table-alignment.html
+- title : Reselling AWS vs MS vs GCP
+  file : reselling-aws-vs-ms-gcp.html
