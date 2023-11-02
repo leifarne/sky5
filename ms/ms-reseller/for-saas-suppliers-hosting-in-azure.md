@@ -17,7 +17,7 @@ As a **customer of Microsoft**, the main rule is that you are not allowed to
 share the services with third parties. **The "hosting exception"** however
 allow you to use Azure as your hosting platform, provided your product
 to end-customers are not the Microsoft Online-services as such, but
-access to your own **software application as a service**. As your
+access to a "Customer Solution" such as your own **software application as a service**. As your
 end-customers do not get access to Microsoft Online-services as such,
 this is allowed by Microsoft.
 
