@@ -1,0 +1,33 @@
+title : Contract Templates
+text : |-
+    Below you find contract templates for the most common types of resale of Microsoft Online-services. There are two templates for resale of Azure Online-services as a CSP, and two templates for SaaS providers hosting its application in Azzure. For all templates, we have incorporated what we have deem to be necessary regulations, to be compliant with either Microsoft Partner Agreement for CSP resellers, or MCA/EA or MOSA if you are a SaaS provider hosting in Azure.
+    
+    You can see all relevant Microsoft risk and obligations we have considered by using the filter "Customer" under Detailed Walkthrough or under Risk Assessment Tool. As you will see, this extends beyond merely just flowing down the MCA to end-customers when you are a CSP, as the Microsoft Partner Agreement has many obligations towards you as a reseller which you need to mirror against your end-customers, that are not covered in the MCA. You should do your own assessment of the "flow down" as our selection is basesd on commercial assessments, and may leave some residual risk on you. 
+
+children :
+  - title: Template for resale of Microsoft Online-services as a CSP. 
+    link: contract templates/Resale agreement for Microsoft Online services, template, for direct bill and indirect resellers.docx
+    color: light_orange
+    text: |-
+        Template to be used when you resell to end-customers as a CSP. 
+        
+        The template both cover resale of subscription to Microsoft SaaS Services (such as D365) or Azure Online-services. The template takes into consideration obligations on you as a reseller and builds in clauses that should be flown down from Microsoft Partner Agreement (beyond flow-down of MCA towards the end-customers).      
+        
+  - title: Template for resale as CSP, plugin terms into a separate delivery contract
+    link: contract templates/SSA Appendix 10 (or similar) for resale of Azure services under the CSP model.docx
+    color: light_green
+    text: |-
+      Template to be used when you resell as a CSP under a separate delivery contract (for instance a SSA template), and where you need to plugin relevant Microsoft Ts&Cs. The template takes into consideration obligations on you as a reseller and builds in regulations that should be flowed down from Microsoft Partner Agreement (beyond flow-down of MCA towards the end-customers). 
+
+  - title: Template for Terms of Service
+    link: contract templates/Terms of service Electronic Approval v.0.99.docx
+    color: mellow_orange
+    text: |-
+      Template for delivery of SaaS or similar as-a-service. It includes both wording when the SaaS provider use Azure for hosting as a customer of Microsoft, and when the SaaS provider is a CSP and the end-customer gets its own Microsoft subscription (tenant). 
+
+  - title: Template for delivery of SaaS, plug-in of Microsoft T&Cs under a separate contract
+    link: contract templates/SSA Appendix 9 for resale of Azure as part of the Suppliers own SaaS service.docx
+    color: mellow_green
+    text: |-
+      Template to include relevant Microsoft T&Cs, when contracting SaaS under a contract template that allows for separate T&Cs for third party cloud services (for instance a SSA template). It includes both wording when the SaaS provider use Azure for hosting as a customer of Microsoft, and when the SaaS provider is a CSP and the end-customer gets its own Microsoft subscription (tenant).
+

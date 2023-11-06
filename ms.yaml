@@ -28,9 +28,9 @@
 - title: For SaaS Suppliers - hosting in Azure
   children :
   - title : General 
-    file : ms/ms-reseller/for-saas-suppliers-hosting-in-azure.md 
+    file : ms/ms-reseller/for-saas-suppliers-hosting-in-azure.html 
   - title : Hosting Exception - Detailed Walkthrough 
-    file : ms/ms-reseller/hosting-exception-detailed-walkthrough.md 
+    file : ms/ms-reseller/ms-hosting-exception-detailed-walkthrough.html 
   - title : Different Ways to use the Hosting Exception
     file : ms/ms-reseller/ms-hosting-exception-different-ways.html
   - title : Alternative Delivery Models to the Hosting Exception

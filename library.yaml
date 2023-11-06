@@ -22,3 +22,7 @@
   file : table-alignment.html
 - title : Reselling AWS vs MS vs GCP
   file : reselling-aws-vs-ms-gcp.html
+- title : Hosting Exception - Detailed walkthrough
+  file : ms/ms-reseller/ms-hosting-exception-detailed-walkthrough.html 
+- title : Different Ways to use the Hosting Exception
+  file : ms/ms-reseller/ms-hosting-exception-different-ways.html
