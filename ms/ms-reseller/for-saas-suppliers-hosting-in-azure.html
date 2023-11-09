@@ -1,34 +1,58 @@
 <style>
   body {
-      margin: 30px;
-      font-family: sans-serif;
+    margin: 30px;
+    font-family: sans-serif;
   }
 
   h1 {
-      text-align: center;
+    text-align: center;
   }
 
   table {
-      margin: 10;
-      border-collapse: collapse;
+    margin: 10;
+    border-collapse: collapse;
   }
 
   th {
-      background-color: #246379;
-      color: white;
-      padding: 4;
-      vertical-align: middle;
+    background-color: #246379;
+    color: white;
+    padding: 4;
+    vertical-align: middle;
   }
 
   th,
   td {
-      padding: 4;
-      vertical-align: text-top;
-      border: 0px solid #246379;
+    padding: 4;
+    vertical-align: text-top;
+    border: 0px solid #246379;
   }
 
   tr.even td {
-      background-color: #C3D9D7;
+    background-color: #C3D9D7;
+  }
+
+  .big-number {
+    font-size: 60;
+    padding-left: 48px;
+    padding-right: 48px;
+    vertical-align: middle;
+  }
+
+  .circular {
+    border: 4px solid #246379;
+    height: 120px;
+    width: 120px;
+    border-radius: 50%;
+    display: block;
+  }
+
+  .way {
+    color: #246379;
+    font-weight: bold;
+  }
+
+  .tight {
+    padding: 2;
   }
 </style>
 
@@ -37,12 +61,31 @@
   Azure to hosting its applications. In order to use Azure to host your
   application and offer SaaS to your end-customers there are two ways to
   contract with Microsoft:</p>
-<h2 id="you-as-a-regular-microsoft-cloud-solution-partner">You as a
-  regular Microsoft Cloud Solution Partner</h2>
-<p><img src="media/way1.png" width="750" /></p>
-<h2 id="you-as-a-saas-provider-using-the-hosting-exeption">You as a
-  SaaS-provider using the Hosting Exeption</h2>
-<p><img src="media/way2.png" width="750" /></p>
+
+<h3 id="you-as-a-regular-microsoft-cloud-solution-partner">You as a
+  regular Microsoft Cloud Solution Partner</h3>
+<table>
+  <tr>
+    <td class="big-number way ">1</td>
+    <td class="way">You become a reseller (CSP) and resell an individual subscription to your end-customers to
+      Microsoft Online-services. As such resale creawtes a direct agreement between the individual
+      end-customer and Microsoft, a unique tenant will be estaqblished for each end-customer.
+      This way is for instance suitable where the SaaS is offered as a "private cloud" / "single tenant" solution.</td>
+  </tr>
+</table>
+
+<h3 id="you-as-a-saas-provider-using-the-hosting-exeption">You as a
+  SaaS-provider using the Hosting Exeption</h3>
+
+<table>
+  <tr>
+    <td class="big-number way">2</td>
+    <td class="way">Hosting Exception: You may as a SaaS provider also become a customer of Microsoft yourself and
+      use the so called “hosting exception” as contractual basis to use Azure services as a hosting platform
+      when providing SaaS to your end-customers.</td>
+  </tr>
+</table>
+
 <p>As a <strong>customer of Microsoft</strong>, the main rule is that
   you are not allowed to share the services with third parties.
   <strong>The “hosting exception”</strong> however allow you to use Azure
@@ -59,7 +102,10 @@
   services and offer <strong>SaaS to end-customers</strong>. It is not a
   resale as such. The “hosting exception” is often used by SaaS suppliers
   for <strong>multitenant</strong> SaaS offerings.</p>
-Read more about your rights and obligations when using the hosting exception, &quot;Hosting Exception-Detailed
-Walkthrough&quot;.
-It also accounts for the benefits and risk with becoming a CSP or using the hosting exception for you as a SaaS
-provider.
+
+<p>
+  Read more about your rights and obligations when using the hosting exception, &quot;Hosting Exception-Detailed
+  Walkthrough&quot;.
+  It also accounts for the benefits and risk with becoming a CSP or using the hosting exception for you as a SaaS
+  provider.
+</p>
