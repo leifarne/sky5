@@ -1,0 +1,31 @@
+- title: Cloud Terms Guide
+  leading: Foyen_personvern_2_small.jpg
+  text: |-
+    Welcome to Cloud Terms Guide®, where you will get an intro to and a detailed walk through of your rights and obligations when subscribing to (customers) or reselling (contractors) cloud services from Amazon, Google and Microsoft.
+    
+    You'll get a practical guideline on how to maximise cloud benefits and mitigate business risks when utilizing cloud services from different cloud providers. We provide a risk assessment tool to assist you with concrete mitigating actions, including a risk register, suggested routines to establish and tailored contract templates for your specific need. 
+    
+- title: Your Cloud Agreements Assessed by Legal Experts
+  trailing: foyen_GDPR_2_small.jpg
+  text: |-
+    When subscribing to a cloud service, the terms and conditions normally consist of a large set of complex legal documents, from general terms and conditions, service specific terms, service level commitment, data processing agreement, license metrics etc. Just the sheer size of the documents, makes it difficult to understand your rights and obligations.
+
+    The complexity in the agreement structure and the large set of contractual obligations make it even more difficult to assess whether your use of cloud services will be compliant with the subscription terms. In addition, you need to ensure that your use of cloud services is compliant with laws and regulations such as GDPR, accounting act, archive legislation, security act etc, or sector specific legislations such as for finance or insurance companies.
+
+    On top of this, the cloud subscription terms (and possible also laws and regulations) are continuously updated. This means there is a lot to keep track of, and this is were we can help. 
+
+    Cloudtermsguide® provides tools to help you understand your cloud contracts, understanding your rights and obligations, understanding whether you are compliant with law, and suggesting policies and steps you can take to mitigate risk or for ensuring compliance.
+
+    Whether you are a customer of cloud services, or a reseller, Cloudtermsguide® provide an online service where you get assess to assessments made of Microsoft, Amazon and Google terms and conditions. It’s made by experience legal professionals and a solution architect, and the guide is kept up to date.
+    
+    Read more by clicking one of the buttons.
+  button:
+    text: Products
+    index: 1
+  button_customer:
+    text: Customer
+    index: 2
+  button_reseller:
+    text: Reseller
+    index: 3
+    
