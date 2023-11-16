@@ -1,6 +1,6 @@
 # What is the Cloud Terms Guide?
 
-<img src="media/CTG.png" width="650"/> 
+<img src="../media/CTG.png" width="650"/> 
 
 # Purpose
 
@@ -17,7 +17,7 @@ of their contractual terms. This can lead to your risk action
 becoming invalid, or that the risk exposure has changed. You react to the 
 alert and reassess the risk, mitigation and exposure.
 
-<img src="media/keyactions.png" width="500"/> 
+<img src="../media/keyactions.png" width="500"/> 
 
 # Benefits
 
