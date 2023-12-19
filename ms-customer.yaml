@@ -1,53 +1,53 @@
 - title: Subscribing to PaaS/IaaS
-  file: customer-subscribing-to-iaas-paas.md
+  file: customer-subscribing-to-iaas-paas.html
 - title: Differences between Azure, AWS and GCP
-  file: customer-differences-between-azure-aws-gcp.md
+  file: customer-differences-between-azure-aws-gcp.html
 - title: Regulatory Overview
   children:
   - title: General
-    file: regulatory-general.md
+    file: regulatory-general.html
   - title: Accounting Act
-    file: regulatory-accounting-act.md
+    file: regulatory-accounting-act.html
   - title: GDPR
-    file: regulatory-gdpr.md
+    file: regulatory-gdpr.html
   - title: Acrhives Act
-    file: regulatory-archives-act.md
+    file: regulatory-archives-act.html
   - title: EBA EIOPA DORA
-    file: regulatory-eba-eiopa-dora.md
+    file: regulatory-eba-eiopa-dora.html
   - title: NVE
-    file: regulatory-nve.md
+    file: regulatory-nve.html
   - title: Health Registry Act / Patient Records Act / Health Personnel Act (The Health Norm)
-    file: regulatory-health-acts.md
+    file: regulatory-health-acts.html
 - title: Microsoft
   children:
   - title: Available Programs, Similarities and Differences
-    file: ms/ms-customer/ms-customer-available-programs.md
+    file: ms/ms-customer/ms-customer-available-programs.html
   - title : Enterprise Agreement (EA)
     children :
     - title : Key Findings
-      file : ms/ms-customer/ms-customer-ea-key-findings.md
+      file : ms/ms-customer/ms-customer-ea-key-findings.html
     - title : Detailed Walkthrough
       file : ms/ms-customer/ms-customer-ea-detailed-walkthrough.yaml
   - title : Microsoft Customer Agreement (MCA)
     children :
     - title : Key Findings
-      file : ms/ms-customer/ms-customer-mca-key-findings.md
+      file : ms/ms-customer/ms-customer-mca-key-findings.html
     - title : Detailed Walkthrough
       file : ms/ms-customer/ms-customer-mca-detailed-walkthrough.yaml
   - title : Microsoft Online Services Agreement (MOSA)
     children :
     - title : Key Findings
-      file : ms/ms-customer/ms-customer-mosa-key-findings.md
+      file : ms/ms-customer/ms-customer-mosa-key-findings.html
     - title : Detailed Walkthrough
       file : ms/ms-customer/ms-customer-mosa-detailed-walkthrough.yaml
 - title: AWS
   children:
     - title: Available Programs, Similarities and Differences
-      file: aws-customer.md
+      file: aws-customer.html
 - title: Google
   children:
     - title: Available Programs, Similarities and Differences
-      file: google-customer.md
+      file: google-customer.html
 - title: Cloud subscription tool (BETA)
   children: 
   - title: General
