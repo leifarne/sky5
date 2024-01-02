@@ -1,0 +1,66 @@
+title : Detailed Walkthrough MPA - Indirect Reseller
+text : For a detailed walkthrough push the 'Risks' buttons.
+children :
+  - title : Core Terms
+    color : light_green
+    text : >-
+      The Core terms regulate general terms such as confidentiality, requirements for the processing of personal data in connection with resale, compliance obligations 
+      (related to law, HSE, ethical rules, anti-corruption rules, requirements for business conduct, training of the reseller's human resources, etc.), use of 
+      Microsoft's logo in connection with resale, term and termination, etc.
+    button_name : Risks
+    button_value : Core_Terms
+
+  - title : Channel Terms
+    color : mellow_green
+    text : >-
+      These are terms that apply specifically to the reseller's resale of Microsoft Online Services. They must be combined with a "Channel Authorization". The terms 
+      include terms for resale and restrictions (you may not use the Online services internally, modify them, or provide warranties on Microsoft's behalf to the end 
+      customer beyond what Microsoft itself provides), general obligations, ordering rules, payment obligations, audit, warranty obligations and limitations of liability, 
+      third party claims, term and termination. 
+    button_name : Risks
+    button_value : Channel_Terms
+
+  - title : Indirect Reseller Authorization (Channel Autorization)
+    color : light_orange
+    text : >-
+      This is the document that actually authorize the reseller a right to resell Microsoft Online services (through a distributor). Here it is specified the territory 
+      in which you can resell, requirement to use the partner portal, requirement to ensure acceptance of the Microsoft terms and conditions by end customers, rules 
+      regarding suspension or cancellation of subscriptions, payment terms, requirement to provide support to end customers, etc.
+    button_name : Risks
+    button_value : Guide_to_Online_Services_and_Channel_Authorization
+
+  - title : Microsoft Partner Network Agreement
+    color : mellow_orange
+    text : >-
+      The agreement regulates the reseller's right to use the Microsoft Partner Network or related websites (the Partner Portal), including access to Microsoft marketing/sales 
+      materials, offers/campaigns, Microsoft products, etc. The Microsoft Partner Network Agreement does not change the Microsoft Partner Agreement, but it is a 
+      prerequisite for entering into and maintaining the Microsoft Partner Agreement.
+    button_name : Risks
+    button_area_value : MPNA
+
+  - title : Additional Terms
+    color : mellow_orange
+    text : >-
+      The MPA states in the Indirect Reseller Authorization (the Channel Authorization) that the Additional Terms in the distributor's agreement with the reseller also must 
+      be followed in connection with the resale of Microsoft online services. Any breach of Additional Terms is also considered a breach of the MPA with Microsoft. The 
+      distributor is obliged in its agreement with Microsoft to mirror its relevant obligations towards Microsoft through the distributor's own agreements with the resellers. 
+      Since the resellers also enters into a separate Microsoft Partner Agreement with Microsoft, most distributors will only mirror the provisions in the Microsoft Partner 
+      Agreement for "direct bill" that are “missing” in the Microsoft Partner Agreement for "indirect reseller". The differences are mainly:
+
+
+      -	The Core Terms are almost identical. The largest difference to MPA "direct bill" is that upon termination for any reason, the right to resell ceases within 24 hours vs a 1-year transition period in MPA "direct bill" where reseller can still sell to existing end customers.
+
+
+      -	Channel Terms are also quite similar. The large difference is that a number of provisions, including definitions, related to payment and payment terms have been removed since an "indirect" reseller must order and pay for the consumption of online services to its distributor. This means that provisions in MPA for "direct bill" such as the distributor not being allowed to offset any earned bonus against upcoming payments for consumption, that the distributor has a maximum of 25 days to submit written objections to Microsoft to any consumption measurements that form the basis for upcoming invoices, etc., are not found in MPA for "indirect reseller". In addition, MPA for "indirect reseller" lacks, for example, a limitation of liability that exists in MPA for "direct bill" (is limited to 12 months' fees there).
+
+
+      -	Channel Authorization is fundamentally different. In MPA for "direct bill", topics such as the territory  the reseller can resell in, which online services that can be resold, requirements for the use of the partner portal, requirements to ensure acceptance of Microsoft terms from end customers, rules around suspension or cancellation of subscriptions, payment terms, requirements for support towards end customers, etc. are addressed. These topics are not addressed in the MPA "indirect reseller" version.
+
+
+      -	The Guide to the Online Services and Software Channel Authorization does not exist in MPA "indirect reseller", only in MPA "direct bill" which applies to the distributor. This document sets out additional requirements and guidelines for resale. For example, additional requirements for access to the Microsoft partner portal (including requirements for multi-factor authentication), additional requirements for support provided to end customers, policies for the products, other terms (such as end customer satisfaction survey, invoicing requirements), possibility for return/cancellation of orders, as well as a number of product-specific terms (for Azure services, Azure Stack, Skype, D365), rules for sales to public end customers, etc. Although these terms do not apply to resellers who are "indirect", the distributor will have to mirror several of these conditions (Additional Terms) towards the reseller in the agreement that will have to be entered into between the distributor and the reseller.
+
+
+      Based on our experience in negotiating distributor agreements), the distributor will introduce a number of provisions with rules and obligations that apply to the reseller, based on the additional obligations that apply to the distributor through MPA "direct bill" vs what applies to indirect resellers. 
+    button_name : Risks
+    button_area_value : Additional_Terms
+    
