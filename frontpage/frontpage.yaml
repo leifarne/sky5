@@ -19,9 +19,6 @@
     Whether you are a customer of cloud services, or a reseller, Cloudtermsguide® provide an online service where you get assess to assessments made of Microsoft, Amazon and Google terms and conditions. It’s made by experience legal professionals and a solution architect, and the guide is kept up to date.
     
     Read more by clicking one of the buttons.
-  button:
-    text: Products
-    index: 1
   button_customer:
     text: Customer
     index: 2
