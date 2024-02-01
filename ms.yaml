@@ -15,7 +15,7 @@
       file : ms/ms-reseller/ms-direct-bill.html
       requireMPA : true
     - title : Detailed Walkthrough
-      file : ms/ms-reseller/ms-direct-bill-detailed-walkthrough.html
+      file : ms/ms-reseller/ms-direct-bill.yaml
       requireMPA : true
   - title : Indirect Reseller (Tier 2 CSP)
     children :
