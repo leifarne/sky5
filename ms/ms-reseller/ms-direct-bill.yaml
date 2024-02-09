@@ -9,7 +9,7 @@ children :
       (related to law, HSE, ethical rules, anti-corruption rules, requirements for business conduct, training of the reseller's human resources, etc.), 
       use of Microsoft's logo in connection with resale, term and termination, etc.
     button_name : Risks
-    link : Core_Terms
+    link : Direct_Bill/MPA/Core_Terms
       
   - title : Channel Terms
     color : mellow_green
@@ -19,7 +19,7 @@ children :
       customer beyond what Microsoft itself provides), general obligations, ordering rules, payment obligations, audit, warranty obligations and limitations of liability, 
       third party claims, term and termination. 
     button_name : Risks
-    link : Channel_Terms
+    link : Direct_Bill/MPA/Channel_Terms
                 
   - title : Channel Authorization
     color : light_orange
@@ -28,9 +28,9 @@ children :
       requirement to use the partner portal, requirement to ensure acceptance of the Microsoft terms and conditions by end customers, rules regarding suspension or 
       cancellation of subscriptions, payment terms, requirement to provide support to end customers, etc.
     button_name : Risks
-    link : Channel_Authorization
+    link : Direct_Bill/MPA/Channel_Authorization
                 
-  - title : Guide to the Online Servies and Software Channel Authorization
+  - title : Guide to the Online Services and Software Channel Authorization
     color : mellow_orange
     text : >-
       This document sets out additional requirements and guidelines for resale. For example, additional requirements for access to the MSMicrosoft Partner Portal 
@@ -38,7 +38,7 @@ children :
       satisfaction survey, invoice requirements), possibility to return/cancel orders, and also has a number of product-specific terms (for Azure services, 
       Azure Stack, Skype, D365, rules for sale to public customers, etc.).
     button_name : Risks
-    link : Guide_to_Online_Services_and_Channel_Authorization
+    link : Direct_Bill/MPA/Guide_to_Online_Services_and_Channel_Authorization
 
   - title : Microsoft Partner Network Agreement
     color : mellow_green
@@ -47,5 +47,5 @@ children :
       marketing/sales materials, offers/campaigns, Microsoft products, etc. The Microsoft Partner Network Agreement does not change the Microsoft Partner Agreement, 
       but it is a prerequisite for entering into and maintaining the Microsoft Partner Agreement.
     button_name : Risks
-    link : MPNA
+    link : Direct_Bill/MPNA
     
