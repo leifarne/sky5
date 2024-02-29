@@ -3,16 +3,15 @@ text : The walk through is intended to give customers and potential customers of
 
 children :
   - title : Microsoft Customer Agreement
+    color : mellow_green
     text : The agreement document «Microsoft Customer Agreement” is the top agreement document for this Microsoft Program. The document addresses normal terms and conditions such as license to use, duration, use by affiliates, license restrictions, audit, confidentiality, infringement for third party claims, limitation of liability, pricing and payments, term and termination, governing law etc.
-    button_name : Risks
-    button_mca_value : MCA
+    link : /MCA/MCA
     
   - title : Product Terms; Universal License Terms for all Online Services
     color : light_green
     text : |-
       The universal license terms for Online Services apply to most Online Services and addresses topics such as license reassignment, multiplexing, the possibility to step-up to higher editions, acceptable use policy (very important), listing of online services exempted from the DPA, specific rules relation to use of software with the Online Services, cancellation policy, changes to or termination to Online Services, purchasing rules, auto renewal etc. 
-    button_name : Risks
-    button_mca_value : PT_ULT
+    link : MCA/MCA/PT_ULT
       
   - title : Product Terms, product offering specific terms
     color : mellow_green
@@ -20,8 +19,7 @@ children :
       In addition to the universal license terms, which are commented above, the product terms for each online service vary a bit from service to service. In addition to universal license terms for online services, there may also be additional license terms for software. For each service, for instance “Microsoft Azure User Plans, Microsoft Azure Services etc there are general regulations (such as availability, subscription term, purchase rules, payment options available and reservation rules), there are often general service terms, and specific service terms that you need to review. Below we mention only a few important regulations, which not necessarily apply to all online services. It's however important that you review the product terms applicable for your service, as there are many rules as to how you can use the individual service/what triggers payment of extra licenses etc.
 
       You only find the Product Terms online, see https://www.microsoft.com/licensing/terms/welcome/welcomepage. Note that in order to find the applicable version of the Product Terms for the services you subscribe to, you also have to select the correct program you subscribe under (EA, MCA, MOSA etc) in the licensing page, as they may vary from program to program.
-    button_name : Risks
-    button_mca_value : PT_GST
+    link : MCA/MCA/PT_GST
                 
   - title : SLA
     color : light_orange
@@ -38,8 +36,7 @@ children :
       Be also aware of that as the SLAs are individual per service, so will the service credits be. Are your “solution” down, the service credit refund will be given for the individual service failing, and the price reduction in percentage will be based on the lowest price level available in Microsoft's pricing. For instance, if a VM is causing downtime for your “solution”, only the price for the WM is relevant for service credit calculation, and if you buy 20 VM's, and one fails with the consequence that your entire “solution” is down, only the price for that specific VM is relevant when calculating service credit. 
 
       In the tool, we comment the general terms and conditions in the SLA document, and a couple of individual SLAs. 
-    button_name : Risks
-    button_mca_value : SLA
+    link : MCA/MCA/SLA
                 
   - title : Microsoft Products and Services Data Protection Addendum
     color : mellow_orange
@@ -50,6 +47,5 @@ children :
 
       Be especially aware of the regulations related to transfer of personal data outside EEA. In the latest update of the DPA, Microsoft's terms and conditions address in Appendix C specifically the problems that arose after Schrems II, and introduces some additional safeguards.  Microsoft confirms also that EEA Standard Contractual Clauses (SCC) v.2021 is used to facilitate the transfer. However, the standard DPA from Microsoft does in fact not address the real problem with Schrems II, i.e. that the conclusion of court was that the law in for example USA does not sufficiently protect the personal data from access by the authorities.  It is therefore still essential that you as a customer carry out a (country specific) risk assessment in accordance with the guidelines from EDPB and Data inspectorate.  This assessment must be carried out before you start using the online services, as Microsoft's terms and conditions clearly states that Microsoft will use subcontractors and/or personnel located outside of EEA.
 
-    button_name : Risks
-    button_mca_value : DPA
+    link : MCA/MCA/DPA
     
