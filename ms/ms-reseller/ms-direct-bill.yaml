@@ -38,7 +38,7 @@ children :
       satisfaction survey, invoice requirements), possibility to return/cancel orders, and also has a number of product-specific terms (for Azure services, 
       Azure Stack, Skype, D365, rules for sale to public customers, etc.).
     button_name : Risks
-    link : Direct_Bill/MPA/Guide_to_Online_Services_and_Channel_Authorization
+    link : Direct_Bill/MPA/Guide_to_the_Online_Services_and_Software_Channel_Authorization
 
   - title : Microsoft Partner Network Agreement
     color : mellow_green
@@ -47,5 +47,5 @@ children :
       marketing/sales materials, offers/campaigns, Microsoft products, etc. The Microsoft Partner Network Agreement does not change the Microsoft Partner Agreement, 
       but it is a prerequisite for entering into and maintaining the Microsoft Partner Agreement.
     button_name : Risks
-    link : Direct_Bill/MPNA
+    link : Direct_Bill/MPNA/MPNA
     

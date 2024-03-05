@@ -20,14 +20,14 @@ children :
     button_name : Risks
     link : Indirect_Reseller/MPA/Channel_Terms
 
-  - title : Indirect Reseller Authorization (Channel Autorization)
+  - title : Indirect Reseller Authorization (Channel Authorization)
     color : light_orange
     text : >-
       This is the document that actually authorize the reseller a right to resell Microsoft Online services (through a distributor). Here it is specified the territory 
       in which you can resell, requirement to use the partner portal, requirement to ensure acceptance of the Microsoft terms and conditions by end customers, rules 
       regarding suspension or cancellation of subscriptions, payment terms, requirement to provide support to end customers, etc.
     button_name : Risks
-    link : Indirect_Reseller/MPA/Guide_to_Online_Services_and_Channel_Authorization
+    link : Indirect_Reseller/MPA/Channel_Authorization
 
   - title : Microsoft Partner Network Agreement
     color : mellow_orange
