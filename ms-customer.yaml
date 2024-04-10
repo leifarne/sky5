@@ -51,7 +51,7 @@
 - title: SaaS Subscription Tool (BETA)
   children: 
   - title: General
-    file: customer-cloud-subscription-tool.md
+    file: customer-cloud-subscription-tool.html
   - title: Important information for SaaS offerings
     file: customer-important-information-for-saas-offerings.md
   - title: SaaS Checklist
