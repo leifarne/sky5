@@ -50,7 +50,7 @@
       file: google-customer.html
 - title: SaaS Subscription Tool (BETA)
   children: 
-  - title: General
+  - title: General Overview
     file: customer-cloud-subscription-tool.html
   - title: Important information for SaaS offerings
     file: customer-important-information-for-saas-offerings.md
