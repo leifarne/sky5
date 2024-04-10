@@ -1,6 +1,8 @@
-<!-- <link rel="stylesheet" href="../../styles.css"> -->
+<Head> 
+<title> Cloud subcription tool </title>
 <style>
-    body {
+    body { 
+        margin: 30px;
         font-family: 'Roboto', sans-serif;
     }
     
@@ -20,11 +22,26 @@
         padding: 16;
         vertical-align: middle;
     }
-
+    
+   .big-number {
+            font-size: 60;
+            padding-left: 48px;
+            padding-right: 48px;
+            vertical-align: middle;
+            
     blockquote {
         background-color: #fcf2eb;
         padding: 16;
     }
+      .tight {
+            padding: 2;
+        }
+
+        img {
+            width: 260px;
+        }
+    </style>
+</head> 
 
     .decor {
         padding: 4px;
@@ -34,9 +51,6 @@
             width: 100;
         } */
 </style>
-
-<h1>Cloud subcription tool</h1>
-
 
 <h2>Tip and hints for how to ensure good SaaS contracts:<H2/>
 
