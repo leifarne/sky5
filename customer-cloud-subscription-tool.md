@@ -1,24 +1,62 @@
-# Cloud subscription tool
+<!-- <link rel="stylesheet" href="../../styles.css"> -->
+<style>
+    body {
+        font-family: 'Roboto', sans-serif;
+    }
+    
+    h1 {
+        text-align: center;
+    }
+
+    table {
+        margin: 10;
+        /* width: 700px; */
+    }
+
+    td {
+        background-color: #246379;
+        color: white;
+        /* background-color: #C3D9D7; */
+        padding: 16;
+        vertical-align: middle;
+    }
+
+    blockquote {
+        background-color: #fcf2eb;
+        padding: 16;
+    }
+
+    .decor {
+        padding: 4px;
+    }
+
+    /* img {
+            width: 100;
+        } */
+</style>
+
+<h1>Cloud subcription tool</h1>
 
 
-### Tip and hints for how to ensure good SaaS contracts:
+<h2>Tip and hints for how to ensure good SaaS contracts:<H2/>
 
-When you are in process of aquiring SaaS offerings, you should always review the terms and
-conditions, including possible license metrics and the order form carefully before you contract, so you have control over your rights and obligations. 
+<p>When you are in process of aquiring SaaS offerings, you should always review the terms and
+conditions, including possible license metrics and the order form carefully before you contract, so you have control over your rights and obligations.<p/> 
 
-Normally there are a huge number of “pitfalls” or regulations with weak customer protection that you should get control over.
+<p>Normally there are a huge number of “pitfalls” or regulations with weak customer protection that you should get control over.<p/>
 
-Our SaaS services procurement tool offering is, contrary to our IaaS/PaaS tool where we also provide detailed review of the T&Cs for Microsoft Azure, Amazon Web Services and Google Cloud Platform, “only” a detailed check list that you can use when contracting SaaS services from service providers such as IBM, Oracle, Salesforce, BMC, IFS, SAP, Atlassian, Cloudflare etc. Given the large number of different SaaS providers, with different T&C’s out there, we cannot offer detailed reviews of the terms and conditions for all such providers, but we can offer a detailed guideline for how risk and responsibility ideally should be addressed from a customer perspective. 
+<p>Our SaaS services procurement tool offering is, contrary to our IaaS/PaaS tool where we also provide detailed review of the T&Cs for Microsoft Azure, Amazon Web Services and Google Cloud Platform, “only” a detailed check list that you can use when contracting SaaS services from service providers such as IBM, Oracle, Salesforce, BMC, IFS, SAP, Atlassian, Cloudflare etc. Given the large number of different SaaS providers, with different T&C’s out there, we cannot offer detailed reviews of the terms and conditions for all such providers, but we can offer a detailed guideline for how risk and responsibility ideally should be addressed from a customer perspective.<p/> 
 
-The check list both give you a tool to assess risk in the various cloud offerings you are considering, but it also helps you to identify risks that you probably should not accept, what you should try to change in negotiations, and also how. 
+<p>The check list both give you a tool to assess risk in the various cloud offerings you are considering, but it also helps you to identify risks that you probably should not accept, what you should try to change in negotiations, and also how.<p/>
 
-Since SaaS services normally are standardized, i.e you receive the same standard service as the other customers, you should not try to change the T&Cs as it relates to the standard SaaS offering as such. Then you are asking for a customer specific solution, which will be more expensive. This however does not mean that you should not ensure predictability for yourself as a customer. Especially if your use of the SaaS service support business critical processes in your organization.
+<blackquote> 
+<p></p>Since SaaS services normally are standardized, i.e you receive the same standard service as the other customers, you should not try to change the T&Cs as it relates to the standard SaaS offering as such. Then you are asking for a customer specific solution, which will be more expensive. This however does not mean that you should not ensure predictability for yourself as a customer. Especially if your use of the SaaS service support business critical processes in your organization.<p/>
+<blackquote/>
 
 
+<h2>Our high-level recommendation is that you for instance should not accept:<h2/>
 
-### Our high-level recommendation is that you for instance should not accept:
-
--	Limited or no price assurance, for the existing subscription or additional licenses/services etc. 
+<p>-	Limited or no price assurance, for the existing subscription or additional licenses/services etc. 
 -	License metrics that does not cover your affiliates, or which are not adapted to your way of doing business, so you risk large increases in subscription fees when you start using the SaaS solution in your business.
 -	That the service may be materially changed without a sufficient notice period for you to plan for the changes/updates/alternatives.
 -	That modules/parts of the service may be terminated with short notice period, not giving you sufficient time to plan for an alternative service.
@@ -27,15 +65,18 @@ Since SaaS services normally are standardized, i.e you receive the same standard
 -	That breach of the terms and conditions will entitle the SaaS provider to terminate for cause, even though the breach is not “material”, and without you having a reasonable time to cure. And when termination happens, it will be “immediate”, even when you will use months or years to replace the service with an alternative SaaS offering
 -	Or if you are sued for infringement by a third party claiming that the use of the SaaS offering is infringing its right, you SaaS provider may merely terminate the SaaS offering and refund any prepaid fees to you, without an obligation for the SaaS provider to use reasonable commercial efforts to resolve the issue rather than just terminating the service you have spent much time and money to implement. 
 -	Or if you divest or sell parts of your business, there is no “transitional” period where the divested part may still use the services, until new services has been established.
--	+++
+-	+++ </p>
 
-We have developed a SaaS offering checklist that you may use as a tool when reviewing SaaS subscription terms from the various SaaS providers, so you get control of your rights and obligations and possible identify areas which you should try to negotiate. For businesses subject to sector specific rules and regulations, the check list includes overview of such rules and regulations, and guidance on how to ensure/verify compliance when entering into SaaS offerings. 
+<p>We have developed a SaaS offering checklist that you may use as a tool when reviewing SaaS subscription terms from the various SaaS providers, so you get control of your rights and obligations and possible identify areas which you should try to negotiate. For businesses subject to sector specific rules and regulations, the check list includes overview of such rules and regulations, and guidance on how to ensure/verify compliance when entering into SaaS offerings.<p/>
 
-Press here to access the checklist 
+<h3>Press here to access the checklist<h3/>
 
-“Its not possible to negotiate standard SaaS or license agreement terms” you may say.
+<blackquote/> <p>“Its not possible to negotiate standard SaaS or license agreement terms” you may say.<p/> 
+<blackquote/> 
 
-We note that most customers believe this. It’s however wrong. Our experience that it is always possible to negotiate such T&C’s, even with the largest international SaaS providers. At least as long as you ensure that your potential provider understand that they have competitors and that the “balance” of the T&Cs is a part of your evaluation. It is always possible to negotiate prices and price lock for SaaS offerings. We are surprised how many customers we see these days, that for instance invest in complex ERP solutions that cost several hundred million in external implementation cost, that have not secured the SaaS subscription price for more than 3 years. Such a situation just has to be avoided, because the SaaS subscription fees will be increased exponentially after three years, unless you have agreed a renewal price or other type of indexation.  
+We note that most customers believe this. It’s however wrong. Our experience that it is **always possible to negotiate such T&C’s**, even with the largest international SaaS providers. At least as long as you ensure that your potential provider understand that they have competitors and that the “balance” of the T&Cs is a part of your evaluation. It is always possible to **negotiate prices and price lock** for SaaS offerings.
+
+We are surprised how many customers we see these days, that for instance invest in complex ERP solutions that cost several hundred million in external implementation cost, that have not secured the SaaS subscription price for more than 3 years. Such a situation just has to be avoided, because the SaaS subscription fees will be **increased exponentially** after three years, unless you have agreed a renewal price or other type of indexation.  
 
 
 
