@@ -2,7 +2,7 @@
   file: customer-subscribing-to-iaas-paas.html
 - title: Differences between Azure, AWS and GCP
   file: customer-differences-between-azure-aws-gcp.html
-- title: Regulatory Overview
+- title: Regulatory Overview (BETA)
   children:
   - title: General
     file: regulatory-general.html
@@ -48,12 +48,11 @@
   children:
     - title: Available Programs, Similarities and Differences
       file: google-customer.html
-- title: Cloud subscription tool (BETA)
+- title: SaaS Subscription Tool (BETA)
   children: 
   - title: General
     file: customer-cloud-subscription-tool.md
   - title: Important information for SaaS offerings
     file: customer-important-information-for-saas-offerings.md
   - title: SaaS Checklist
-    file: customer-saas-checklist.md
-  
+    file: customer-saas-checklist.html
