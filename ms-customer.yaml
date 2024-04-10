@@ -34,12 +34,6 @@
       file : ms/ms-customer/ms-customer-mca-key-findings.html
     - title : Detailed Walkthrough
       file : ms/ms-customer/ms-customer-mca-detailed-walkthrough.yaml
-  - title : Microsoft Online Services Agreement (MOSA)
-    children :
-    - title : Key Findings
-      file : ms/ms-customer/ms-customer-mosa-key-findings.html
-    - title : Detailed Walkthrough
-      file : ms/ms-customer/ms-customer-mosa-detailed-walkthrough.yaml
 - title: AWS
   children:
     - title: Available Programs, Similarities and Differences
