@@ -1,4 +1,4 @@
-title : Microsoft Enterprsise Agreement
+title : Microsoft Enterprise Agreement
 text : The walk through is intended to give customers and potential customers of Microsoft online services a detailed overview of its rights and obligations, in order to help customers to understand them when contracting. Hopefully this will enable potential customers to contract faster, and existing customers to be able to be compliant with the terms and conditions. This is not an exhaustive list and you should use this as a guide when reviewing the terms and conditions yourself.  
 
 children :
@@ -13,12 +13,12 @@ children :
     link: /MCA/MCA/EA
 
   - title: Enterprise Purchase agreement
-    color: mellow_green
+    color: light_orange
     text: The Enterprise Purchase agreement goes into more details than the MBSA and the Enterprise Agreement around ordering and payment. This document is also a document that must be filled out, in order to establish the EA Agreement( name of your entity and billing contact info). Some clauses are identical to the MBSA and Enterprise Agreement, such as the tax clause, term and termination and clauses under Miscellaneous (such as assignment, order of precedence etc). The reason why they are “repeated” is assumed to be because this agreement will be entered into between customer and the local Microsoft Sales Affiliate, while the MBSA and Enrollment Agreement is entered into between the customer and the Microsoft Licensing Affiliate.
     link: /MCA/MCA/EPA
 
   - title: Entreprise Enrollment
-    color: light_green
+    color: mellow_orange
     text: As mentioned, this document needs to be completed together with the Enterprise Purchase Agreement in order to enter into an EA agreement. The document includes the term of the EA agreement, has additional ordering requirements compared to the Enterprise Purchase Agreement (such as the true-up mechanism), more around pricing (discounts levels) etc. Customers shall also fill in info around its enterprise/affiliates, contact info, notice contact info, identify an online services manager and an software advisor.
     link: /MCA/MCA/EE
     
