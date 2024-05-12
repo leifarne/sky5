@@ -1,0 +1,66 @@
+title : Microsoft Enterprsise Agreement
+text : The walk through is intended to give customers and potential customers of Microsoft online services a detailed overview of its rights and obligations, in order to help customers to understand them when contracting. Hopefully this will enable potential customers to contract faster, and existing customers to be able to be compliant with the terms and conditions. This is not an exhaustive list and you should use this as a guide when reviewing the terms and conditions yourself.  
+
+children :
+  - title: Microsoft Business and Services Agreement
+    color: mellow_green
+    text: The MBSA is the top document in the EA agreement and consist of general legal terms and conditions expected in any agreement. Such as general descriptions of use and use restrictions, confidentiality, privacy, warranties, third party claims defense, limitation of liability, audits, term and termination (primarily for convenience) etc.  Most of the clauses correspond to equal clauses in the MCA. 
+    link: /MCA/MCA/MBSA
+
+  - title: Microsoft Enterprise Agreement (EA)
+    color: light_green
+    text: The Enterprise agreement goes into more licensing details than the MBSA, such as addressing which Use Rights terms (Product Terms) that apply for your Products, duration of licenses, mechanism for acquisitions/divestures/mergers, right to copy the products, transfer and assignment, termination for cause, and it implies how affiliates should order (through own enrollments). It also has some clauses that are the same as in MBSA, such as the tax clause, and term and termination for convenience. 
+    link: /MCA/MCA/EA
+
+  - title: Enterprise Purchase agreement
+    color: mellow_green
+    text: The Enterprise Purchase agreement goes into more details than the MBSA and the Enterprise Agreement around ordering and payment. This document is also a document that must be filled out, in order to establish the EA Agreement( name of your entity and billing contact info). Some clauses are identical to the MBSA and Enterprise Agreement, such as the tax clause, term and termination and clauses under Miscellaneous (such as assignment, order of precedence etc). The reason why they are “repeated” is assumed to be because this agreement will be entered into between customer and the local Microsoft Sales Affiliate, while the MBSA and Enrollment Agreement is entered into between the customer and the Microsoft Licensing Affiliate.
+    link: /MCA/MCA/EPA
+
+  - title: Entreprise Enrollment
+    color: light_green
+    text: As mentioned, this document needs to be completed together with the Enterprise Purchase Agreement in order to enter into an EA agreement. The document includes the term of the EA agreement, has additional ordering requirements compared to the Enterprise Purchase Agreement (such as the true-up mechanism), more around pricing (discounts levels) etc. Customers shall also fill in info around its enterprise/affiliates, contact info, notice contact info, identify an online services manager and an software advisor.
+    link: /MCA/MCA/EE
+    
+  - title : Product Terms; Universal License Terms for all Online Services
+    color : light_green
+    text : |-
+      The universal license terms for Online Services apply to most Online Services and addresses topics such as license reassignment, multiplexing, the possibility to step-up to higher editions, acceptable use policy (very important), listing of online services exempted from the DPA, specific rules relation to use of software with the Online Services, cancellation policy, changes to or termination to Online Services, purchasing rules, auto renewal etc. 
+    link : MCA/MCA/PT_ULT
+      
+  - title : Product Terms, product offering specific terms
+    color : mellow_green
+    text : |-
+      In addition to the universal license terms, which are commented above, the product terms for each online service vary a bit from service to service. In addition to universal license terms for online services, there may also be additional license terms for software. For each service, for instance “Microsoft Azure User Plans, Microsoft Azure Services etc there are general regulations (such as availability, subscription term, purchase rules, payment options available and reservation rules), there are often general service terms, and specific service terms that you need to review. Below we mention only a few important regulations, which not necessarily apply to all online services. It's however important that you review the product terms applicable for your service, as there are many rules as to how you can use the individual service/what triggers payment of extra licenses etc.
+
+      You only find the Product Terms online, see https://www.microsoft.com/licensing/terms/welcome/welcomepage. Note that in order to find the applicable version of the Product Terms for the services you subscribe to, you also have to select the correct program you subscribe under (EA, MCA, MOSA etc) in the licensing page, as they may vary from program to program.
+    link : MCA/MCA/PT_GST
+                
+  - title : SLA
+    color : light_orange
+    text : |-
+      In order to understand which SLAs that apply for the Online services you subscribe to, you normally have to chech:
+
+      1)	the Online Services SLA document, which has SLAs for D365, O365 and other online services such as Power BI, Power Apps, etc 
+      2)	and Microsofts SLA for Azure and Azure plan, which are found online here: http://azure.microsoft.com/support/legal/sla/
+
+      In general, each SLA has a very clear definition of Uptime, how Downtime is calculated for each service (and this varies from service to service; some count minutes, other counts hours etc), agreed Uptime percentage and what service credits will be. 
+
+      Note that SLAs normally are given for the individual service, not necessarily the combined “solution” you buy to support your business needs. This means that if you buy several services which has similar uptime, for instance 99,9, this will not be the actual availability offered by Microsoft as the actual uptime will be the multiplication of the individual online service uptime percentage, which normally will be lower. 
+
+      Be also aware of that as the SLAs are individual per service, so will the service credits be. Are your “solution” down, the service credit refund will be given for the individual service failing, and the price reduction in percentage will be based on the lowest price level available in Microsoft's pricing. For instance, if a VM is causing downtime for your “solution”, only the price for the WM is relevant for service credit calculation, and if you buy 20 VM's, and one fails with the consequence that your entire “solution” is down, only the price for that specific VM is relevant when calculating service credit. 
+
+      In the tool, we comment the general terms and conditions in the SLA document, and a couple of individual SLAs. 
+    link : MCA/MCA/SLA
+                
+  - title : Microsoft Products and Services Data Protection Addendum
+    color : mellow_orange
+    text : |-
+      Microsofts DPA is, in our view, acceptable from a customer perspective and in line with what we consider «market practice» for (cloud)suppliers. It may however be perceived as complex due to Microsofts license-based contract structure, but after reviewing we think its consistent and also reasonable balanced from a customer perspective. 
+
+      Some regulations are however worth noting. For instance that the DPA can be updated frequently, regulations related to storage time for data, routines for notification of safety breaches, notification of change of subcontractors, limited possibility for claiming damages from Microsoft if you as a Customer is held jointly liable towards data subjects for damages caused by Microsoft, and regulations related to transfer of personal data to locations outside EU. 
+
+      Be especially aware of the regulations related to transfer of personal data outside EEA. In the latest update of the DPA, Microsoft's terms and conditions address in Appendix C specifically the problems that arose after Schrems II, and introduces some additional safeguards.  Microsoft confirms also that EEA Standard Contractual Clauses (SCC) v.2021 is used to facilitate the transfer. However, the standard DPA from Microsoft does in fact not address the real problem with Schrems II, i.e. that the conclusion of court was that the law in for example USA does not sufficiently protect the personal data from access by the authorities.  It is therefore still essential that you as a customer carry out a (country specific) risk assessment in accordance with the guidelines from EDPB and Data inspectorate.  This assessment must be carried out before you start using the online services, as Microsoft's terms and conditions clearly states that Microsoft will use subcontractors and/or personnel located outside of EEA.
+
+    link : MCA/MCA/DPA
+    
