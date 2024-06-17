@@ -8,11 +8,13 @@
     file: regulatory-general.html
   - title: Accounting Act
     file: regulatory-accounting-act.html
+  - title: AI Act
+    file: regulatory-ai-act.html
   - title: GDPR
     file: regulatory-gdpr.html
-  - title: Acrhives Act
+  - title: Archives Act
     file: regulatory-archives-act.html
-  - title: EBA EIOPA DORA
+  - title: Financial Services (DORA)
     file: regulatory-eba-eiopa-dora.html
   - title: NVE
     file: regulatory-nve.html
