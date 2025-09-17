@@ -24,10 +24,7 @@
     Cloudtermsguide® is built and run by legal experts. The platform gives you an interactive overview of your cloud contracts, lists your rights and obligations, and suggests tailor-made policies to mitigate risk and ensure compliance.
     
     Read more by clicking one of the buttons.
-  button_customer:
-    text: Customer
-    index: 2
-  button_reseller:
-    text: Reseller
-    index: 3
+  buttons:
+    - text: Customer
+    - text: Reseller
     

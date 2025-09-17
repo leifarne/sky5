@@ -7,7 +7,8 @@ text : |-
 children :
   - contract: csp
     title: Template for resale of Microsoft Online-services as a CSP. 
-    link: contract_templates/Resale agreement for Microsoft Online services, template, for direct bill and indirect resellers.docx
+    linkEN: contract_templates/Resale agreement for Microsoft Online services, template, for direct bill and indirect resellers.docx
+    linkNO: contract_templates/Avtale om kjøp av Microsoft Online-tjenester, reseller mal for direct bill og indirect reseller.docx
     color: light_orange
     text: |-
         Template to be used when you resell to end-customers as a CSP. 
@@ -16,21 +17,24 @@ children :
         
   - contract: csp-plugin
     title: Template for resale as CSP, plugin terms into a separate delivery contract
-    link: contract_templates/SSA Appendix 10 (or similar) for resale of Azure services under the CSP model.docx
+    linkEN: contract_templates/SSA Appendix 10 (or similar) for resale of Azure services under the CSP model.docx
+    linkNO: contract_templates/SSA bilag 10 (e.l) ved videresalg av Azure under CSP modellen.docx
     color: light_green
     text: |-
       Template to be used when you resell as a CSP under a separate delivery contract (for instance a SSA template), and where you need to plugin relevant Microsoft Ts&Cs. The template takes into consideration obligations on you as a reseller and builds in regulations that should be flowed down from Microsoft Partner Agreement (beyond flow-down of MCA towards the end-customers). 
 
   - contract: terms-of-service
     title: Template for Terms of Service
-    link: contract_templates/Terms of service Electronic Approval v.0.99.docx
+    linkEN: contract_templates/Terms of service Electronic Approval v.0.99.docx
+    linkNO: contract_templates/Terms of service Electronic Approval v.0.99.docx
     color: mellow_orange
     text: |-
       Template for delivery of SaaS or similar as-a-service. It includes both wording when the SaaS provider use Azure for hosting as a customer of Microsoft, and when the SaaS provider is a CSP and the end-customer gets its own Microsoft subscription (tenant). 
 
   - contract: saas-plugin
     title: Template for delivery of SaaS, plug-in of Microsoft T&Cs under a separate contract
-    link: contract_templates/SSA Appendix 9 for resale of Azure as part of the Suppliers own SaaS service.docx
+    linkEN: contract_templates/SSA Appendix 9 for resale of Azure as part of the Suppliers own SaaS service.docx
+    linkNO: contract_templates/SSA Appendix 9 for resale of Azure as part of the Suppliers own SaaS service.docx
     color: mellow_green
     text: |-
       Template to include relevant Microsoft T&Cs, when contracting SaaS under a contract template that allows for separate T&Cs for third party cloud services (for instance a SSA template). It includes both wording when the SaaS provider use Azure for hosting as a customer of Microsoft, and when the SaaS provider is a CSP and the end-customer gets its own Microsoft subscription (tenant).

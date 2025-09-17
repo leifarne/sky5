@@ -13,7 +13,7 @@
     border-collapse: collapse;
   }
 
-  th {
+  tr.header th {
     background-color: #246379;
     color: white;
     padding: 4;
@@ -24,10 +24,10 @@
   td {
     padding: 4;
     vertical-align: text-top;
-    border: 0px solid #246379;
+    border: 0px solid white;
   }
 
-  tr.even td {
+  tr.odd td {
     background-color: #C3D9D7;
   }
 </style>
@@ -41,7 +41,7 @@
   customer:</p>
 
 <table>
-  <tr>
+  <tr class="header">
     <th>Agreement</th>
     <th>Eligibility</th>
   </tr>
@@ -65,7 +65,7 @@
       existing EA customer, this alternative is not available (nor upon
       renewal).</td>
   </tr>
-  <tr class="even">
+  <tr class="odd">
     <td>Government Enterprise Agreement (EA)</td>
     <td>can be used when you have 250
       SL’s or more.</td>
@@ -75,7 +75,7 @@
     <td>directly with Microsoft (MS
       Enterprise)</td>
   </tr>
-  <tr class="even">
+  <tr class="odd">
     <td>Microsoft Customer Agreement (MCA) through a reseller (MCA
       Indirect).</td>
     <td>The CSP program does not have a 3-year commitment as the EA,
@@ -92,7 +92,7 @@
       customer at Azure.com and enter your credit card. It seems that
       Microsoft is in process of abandoning this agreement type.</td>
   </tr>
-  <tr class="even">
+  <tr class="odd">
     <td>Others</td>
     <td>such as OL (open license), OSV, Select/Select+) are not
       available for purchase on Online-services.</td>
