@@ -1,7 +1,7 @@
 - title: Subscribing to PaaS/IaaS
   file: customer-subscribing-to-iaas-paas.html
-- title: Differences between Azure, AWS and GCP
-  file: customer-differences-between-azure-aws-gcp.html
+# - title: Differences between Azure, AWS and GCP
+#  file: customer-differences-between-azure-aws-gcp.html
 - title: Regulatory Overview (BETA)
   children:
   - title: General
@@ -10,8 +10,8 @@
     file: regulatory-accounting-act.html
   - title: AI Act
     file: regulatory-ai-act.html
-  - title: GDPR
-    file: regulatory-gdpr.html
+#  - title: GDPR
+#    file: regulatory-gdpr.html
   - title: Archives Act
     file: regulatory-archives-act.html
   - title: Financial Services (DORA)
@@ -36,14 +36,14 @@
       file : ms/ms-customer/ms-customer-mca-key-findings.html
     - title : Detailed Walkthrough
       file : ms/ms-customer/ms-customer-mca-detailed-walkthrough.yaml
-- title: AWS
-  children:
-    - title: Available Programs, Similarities and Differences
-      file: aws-customer.html
-- title: Google
-  children:
-    - title: Available Programs, Similarities and Differences
-      file: google-customer.html
+# - title: AWS
+#   children:
+#     - title: Available Programs, Similarities and Differences
+#       file: aws-customer.html
+# - title: Google
+#   children:
+#     - title: Available Programs, Similarities and Differences
+#       file: google-customer.html
 - title: SaaS Subscription Tool (BETA)
   children: 
   - title: General Overview
